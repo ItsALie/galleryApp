@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">GalleryApp</string>
+    <string name="Snap">Snap</string>
+    <string name="Right">Right</string>
+    <string name="Left">Left</string>
+    <string name="Upload">Upload</string>
+    <string name="Search">Search</string>
+    <string name="Thumbnail">Thumbnail</string>
+    <string name="Gallery">Gallery</string>
+    <string name="Back">Back</string>
+    <string name="Time">Time</string>
+    <string name="From">From</string>
+    <string name="To">To</string>
+    <string name="Lat">Lat</string>
+    <string name="Long">Long</string>
+    <string name="Location">Location</string>
+    <string name="Edit">Edit</string>
+    <string name="Caption">Caption</string>
+    <string name="TopLeft">Top Left</string>
+    <string name="BotRight">Bottom Right</string>
+    <string name="DecEx">123.456</string>
+</resources>
